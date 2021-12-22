@@ -1,16 +1,5 @@
-# ads_plugin_performance
+# Ads Plugin Performance
 
-Sample app to showcase the performance problems in the Admob plugin.
+Sample app to showcase the performance problems in the google_mobile_ads plugin.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app is configured to show ads but you will need to add your AdMob app ID and your ad unit id.
